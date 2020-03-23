@@ -1,0 +1,5 @@
+get image links
+download images
+put images into folder
+check folder for images that are already in folder with same names
+do not download images if they are already in folder
